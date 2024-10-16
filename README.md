@@ -31,7 +31,7 @@ git config --global user.email
 ```
 
 ## Lage repo og pushe kode til GitHub
-På [[https://github.com/]([https://github.com/) mens du er pålogget trykk på new new
+På [https://github.com/]([https://github.com/) mens du er pålogget trykk på new
 
 Gi prosjektet et navn
 
