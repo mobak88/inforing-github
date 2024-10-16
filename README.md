@@ -2,6 +2,7 @@
 
 ## Installer Git og konfigurere GitHub på din maskin
 Hopp over dette dersom du allerede har installert Git, laget Github konto og konfigurert GitHub på din maskin
+
 Gå til [https://git-scm.com/](https://git-scm.com/) 
 
 Installer Git
