@@ -40,12 +40,15 @@ Trykke på create repository knappen helt nederst
 I vs code lag et nytt prosjekt med en boilerplate HTML fil, legg til det du ønsker av HTML
 Sørg for at du er på riktig sti i terminalen, du skal være i prosjektet. Du bruker cd for å navigere i deg i terminalen, eventuelt åpne riktig mappe manuelt.
 
-I terminalen skriver du git init for å initialisere lokalt repo
+I terminalen skriver du `git init` for å initialisere lokalt repo
+```
+git init
+```
 
 Gå til prosjektet du lagde i GitHub og kopier linjen som ligner på ``` git remote add origin https://github.com/mobak88/test.git ``` for å legge til ditt eksterne repo, lim dette inn i terminalen din
 
 Lim inn `git branch -M main` i terminalen for å bytte navn på din hovedgren fra master til main
- ```
+```
 git branch -M main
 ```
 Skriv `git add index.html` i terminalen for å legge til index.html
@@ -54,12 +57,12 @@ git add index.html
 ```
 
 Skriv `git commit -m "Din melding"` for å comitte filen
- ```
+```
 git commit -m "Din melding"
 ```
 
 Skriv `git push -u origin main` for å pushe koden din til GitHub
- ```
+```
 git push -u origin main
 ```
 
