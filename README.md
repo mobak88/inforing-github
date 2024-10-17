@@ -31,7 +31,7 @@ git config --global user.email
 ```
 
 ## Lage repo og pushe kode til GitHub
-På [https://github.com/]([https://github.com/) mens du er pålogget trykk på new
+På [https://github.com/](https://github.com/) mens du er pålogget trykk på new
 
 Gi prosjektet et navn
 
@@ -51,8 +51,12 @@ Lim inn `git branch -M main` i terminalen for å bytte navn på din hovedgren fr
 ```
 git branch -M main
 ```
+Skriv `git remote add origin https://github.com/brukernavn/repository.git` for å knytte opp til eksternt repo
+```
+git remote add origin https://github.com/brukernavn/repository.git
+```
 Skriv `git add index.html` i terminalen for å legge til index.html
- ```
+```
 git add index.html
 ```
 
